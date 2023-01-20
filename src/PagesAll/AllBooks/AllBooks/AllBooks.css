@@ -1,0 +1,27 @@
+.main-slider {
+  width: 100% !important;
+  height: 600px;
+  margin-top: 30px;
+}
+.sliderImg {
+  height: 530px;
+  width: 100%;
+}
+.btn-design {
+  padding: 12px 23px;
+  background-color: #ee7600;
+  color: #ffff;
+}
+.btn-design:hover {
+  background-color: #ee7600;
+  color: #ffff;
+}
+/* spinner-design */
+.spinner {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center !important;
+  margin: 0 auto;
+  transition: 0.3s all;
+}

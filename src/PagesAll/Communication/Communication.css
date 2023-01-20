@@ -1,0 +1,30 @@
+.contact-input {
+  padding: 10px 60px;
+  border-radius: 8px;
+  width: 450px;
+}
+.btn-contact {
+  background-color: #ee7600;
+  color: #000;
+  padding: 10px 20px;
+}
+.btn-contact:hover {
+  background-color: #ee7600 !important;
+  color: #ffff !important;
+}
+textarea.pb-3 {
+  width: 450px;
+  height: 100px;
+}
+.contact-design {
+  background-color: #a6edd5;
+  padding: 20px 0px;
+  text-align: center;
+  height: 210px;
+}
+.contact-third {
+  background-color: #a6edd5;
+  padding: 20px 0px;
+  text-align: center;
+  height: 138px;
+}
